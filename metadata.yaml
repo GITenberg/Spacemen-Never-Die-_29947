@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '34261'
     url: http://www.gutenberg.org/2009/agents/34261
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29947#Spacemen-Never-Die-
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-09-09'
 gutenberg_type: Text
